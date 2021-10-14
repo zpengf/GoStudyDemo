@@ -1,0 +1,7 @@
+package third
+
+func third()  {
+
+	
+
+}
