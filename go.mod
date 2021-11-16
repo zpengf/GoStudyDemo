@@ -1,4 +1,6 @@
 module studyDemo
 
 go 1.17
-//该看 52 可变参数函数
+
+
+require github.com/go-sql-driver/mysql v1.6.0
